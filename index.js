@@ -124,7 +124,7 @@ const getSortedUniqueSkills = users => {
     return result
 }
 
-console.log(getSortedUniqueSkills(users));
+console.log(getSortedUniqueSkills(users4));
 
 
 // [ 'adipisicing', 'amet', 'anim', 'commodo', 'culpa', 'elit', 'ex', 'ipsum', 'irure', 'laborum', 'lorem', 'mollit', 'non', 'nostrud', 'nulla', 'proident', 'tempor', 'velit', 'veniam' ]
